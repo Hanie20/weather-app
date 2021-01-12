@@ -19,7 +19,7 @@ export default function Container() {
         </div>
       </div>
       <small className="projectLink">
-        <a href="https://github.com/Hanie20/WeatherProject">Open-source code </a>
+        <a href="https://github.com/Hanie20/weather-app.git" >Open-source code </a>
         by Johanie Damas
       </small>
     </div>
