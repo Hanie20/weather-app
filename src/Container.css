@@ -1,0 +1,29 @@
+.Container ul {
+  list-style: none;
+  padding: 0px;
+}
+.Container li {
+  display: inline;
+  margin: 0px 30px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.Container {
+  max-width: 60%;
+  margin-top: 100px;
+}
+
+.Container .card {
+  margin: 0 auto;
+  padding: 20px;
+  background-image: linear-gradient(
+    to right,
+    #eea2a2 0%,
+    #bbc1bf 19%,
+    #57c6e1 42%,
+    #b49fda 79%,
+    #7ac5d8 100%
+  );
+  box-shadow: 5px, 5px, 10px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
